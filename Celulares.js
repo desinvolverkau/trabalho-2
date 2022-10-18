@@ -61,7 +61,7 @@ let celularesPM = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]//INICIALIZANDO O CONTADOR
 console.log(TcelularesPM.join(" - "))
 
 //estrutura para informa quantos foram vendidos sobre  a marca de celular 
-let totalMSaidas = prompt("digite  a marca do Celular  para Saber a quantidade")
+let totalMSaidas = document.getElementById("totalMSaidas");
 
 let Ncell = 0
 
