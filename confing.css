@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+
+
+}
+
+#imagem{
+width:100vw;
+height:100vw;
+background: url(https://oxilojasvirtuais.com.br/wp-content/uploads/2022/03/textos-loja-virtual-768x400.png);
+background-size: contain;
+background-attachment:fixed;
+}
